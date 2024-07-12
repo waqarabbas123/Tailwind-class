@@ -1,1 +1,1 @@
-react js simple project .
+react js simple project
