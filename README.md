@@ -1,1 +1,1 @@
-react js simple project .
+in this reposiotry it hava just simple react project .
