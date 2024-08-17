@@ -1,1 +1,1 @@
-in this reposiotry it hava just simple react project .
+In this reposiotry it hava just simple react project .
